@@ -1,5 +1,4 @@
 package pers.guchh.xmlTest.book;
-
 import java.math.BigDecimal;
 
 public class Book {
