@@ -21,7 +21,7 @@ public interface UserService {
     /**
      * 验证用户是否存在
      * @param username
-     * @return
+     * @return 存在true
      */
     public boolean existUsername(String username);
 }

@@ -17,7 +17,7 @@ public class UserDaoTest {
 
     @Test
     public void queryByUsernameAndPassword() {
-        User user = userDao.queryByUsernameAndPassword("admin", "admin1");
+        User user = userDao.queryByUsernameAndPassword("admin", "admin");
         System.out.println(user);
     }
 
